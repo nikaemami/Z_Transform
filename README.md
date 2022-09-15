@@ -31,7 +31,7 @@ j_test(1,n-3) = norm((y_test - y_Ls_test))^2;
 
 By plotting the corresponding graphs:
 
-![My Image](1.jpg)
+<img src="1.png" width="270" height="250">
 
 As it can be seen, in n=15 the train and test data have the same results.
 
